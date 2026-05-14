@@ -1,0 +1,29 @@
+[
+{
+    "model": "catalogo.producto",
+    "pk": 1,
+    "fields": {
+        "nombre": "Laptop",
+        "precio": "1200.00",
+        "stock": 10
+    }
+},
+{
+    "model": "catalogo.producto",
+    "pk": 2,
+    "fields": {
+        "nombre": "Mouse",
+        "precio": "20.00",
+        "stock": 50
+    }
+},
+{
+    "model": "catalogo.producto",
+    "pk": 3,
+    "fields": {
+        "nombre": "Teclado",
+        "precio": "80.00",
+        "stock": 15
+    }
+}
+]
