@@ -2,10 +2,10 @@
 Taller Sumativo – Individual: Taller MVT: construyendo tu primera app en Django
 
 ### Asignatura
-XXXX
+Aplicaciones y Tecnologías de la Web
 
 ### Profesor
-XXXX
+Rodolfo Aravena C.
 
 ### Alumno
 Jonathan Parada G.
