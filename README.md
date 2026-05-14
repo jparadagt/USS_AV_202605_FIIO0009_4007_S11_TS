@@ -222,4 +222,8 @@ Response
 
 # Autor
 
+Jonathan Parada G.
+
+---
+
 Proyecto académico desarrollado utilizando Django y arquitectura MVT.
